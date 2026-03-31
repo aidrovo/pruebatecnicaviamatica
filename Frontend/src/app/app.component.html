@@ -1,1 +1,8 @@
+<nav *ngIf="isLoggedIn()">
+  <a routerLink="/dashboard">Dashboard</a> |
+  <a routerLink="/users">Usuarios</a> |
+  <a routerLink="/create-user">Crear</a> |
+  <a (click)="logout()">Salir</a>
+</nav>
+
 <router-outlet></router-outlet>

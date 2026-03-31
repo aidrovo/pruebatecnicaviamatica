@@ -4883,11 +4883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Backend\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\Backend\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\Backend\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -29,11 +29,9 @@ public class AuthController : ControllerBase
         if (user.Status == "BLOCKED")
             return BadRequest("Usuario bloqueado");
 
-        // Sesión activa
         if (_context.Sessions.Any(s => s.UserId == user.Id && s.Active))
             return BadRequest("Ya tiene sesión activa");
 
-        // Password incorrecto
         if (user.Password != req.Password)
         {
             user.FailedAttempts++;
@@ -45,10 +43,8 @@ public class AuthController : ControllerBase
             return BadRequest("Credenciales incorrectas");
         }
 
-        // Reset intentos
         user.FailedAttempts = 0;
 
-        // Crear sesión
         _context.Sessions.Add(new Session
         {
             UserId = user.Id,
@@ -67,16 +63,28 @@ public class AuthController : ControllerBase
     [HttpPost("logout")]
     public IActionResult Logout()
     {
-        var userId = int.Parse(User.FindFirst("id").Value);
+        var userIdClaim = User?.FindFirst("id");
+
+        if (userIdClaim == null)
+        {
+            return Unauthorized("Token inválido o sin claim 'id'");
+        }
+
+        if (!int.TryParse(userIdClaim.Value, out int userId))
+        {
+            return BadRequest("ID inválido en el token");
+        }
 
         var session = _context.Sessions
             .FirstOrDefault(s => s.UserId == userId && s.Active);
 
-        session.Active = false;
-        session.LogoutDate = DateTime.Now;
+        if (session != null)
+        {
+            session.Active = false;
+            session.LogoutDate = DateTime.Now;
+            _context.SaveChanges();
+        }
 
-        _context.SaveChanges();
-
-        return Ok();
+        return Ok(new { message = "Logout correcto" });
     }
 }

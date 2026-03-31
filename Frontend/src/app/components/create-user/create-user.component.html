@@ -1,0 +1,19 @@
+<h2>Crear Usuario</h2>
+
+<input [(ngModel)]="user.name" placeholder="Nombre">
+<br />
+<input [(ngModel)]="user.lastName" placeholder="Apellido">
+<br />
+<input [(ngModel)]="user.username" placeholder="Username">
+<small>Debe tener mayúscula, número y sin símbolos</small>
+<br />
+<input [(ngModel)]="user.password" type="password" placeholder="Password">
+<small>Debe tener mayúscula y un símbolo</small>
+<br />
+<input [(ngModel)]="user.identification" placeholder="Cédula (10 dígitos)">
+<br />
+<button (click)="save()">Guardar</button>
+<br />
+<p style="color:red" *ngIf="error">{{error}}</p>
+<br />
+<input type="file" (change)="onFileSelected($event)">

@@ -1,4 +1,6 @@
-﻿namespace Backend.Models;
+﻿using System.Data;
+
+namespace Backend.Models;
 
 public class User
 {

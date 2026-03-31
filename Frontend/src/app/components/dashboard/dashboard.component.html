@@ -1,7 +1,8 @@
 <div class="dashboard">
   <mat-card>
     <h2>Bienvenido 🎉</h2>
-    <p>Ya estás autenticado</p>
+
+    <p>Total usuarios: {{data?.totalUsers}}</p>
 
     <button mat-raised-button color="warn" (click)="logout()">
       Cerrar sesión

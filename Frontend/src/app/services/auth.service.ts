@@ -5,7 +5,7 @@ import { Router } from '@angular/router';
 @Injectable({ providedIn: 'root' })
 export class AuthService {
 
-  private api = 'http://localhost:5282/api';
+  private api = 'https://localhost:7238/api';
 
   constructor(private http: HttpClient, private router: Router) { }
 
@@ -26,11 +26,15 @@ export class AuthService {
   }
 
   logout() {
-    localStorage.removeItem('token');
-    this.router.navigate(['/']);
+    this.http.post(`${this.api}/auth/logout`, {})
+      .subscribe({
+        next: () => this.finishLogout(),
+        error: () => this.finishLogout()
+      });
   }
 
-  getUsers() {
-    return this.http.get(`${this.api}/users`);
+  private finishLogout() {
+    localStorage.removeItem('token');
+    this.router.navigate(['/']);
   }
 }

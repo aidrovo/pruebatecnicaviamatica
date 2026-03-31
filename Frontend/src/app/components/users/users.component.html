@@ -1,0 +1,28 @@
+<h2>Usuarios</h2>
+
+<input [(ngModel)]="search"
+       (input)="searchUsers()"
+       placeholder="Buscar usuario">
+
+<table border="1">
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Email</th>
+    <th>Username</th>
+    <th>Password</th>
+    <th>Cédula</th>
+  </tr>
+
+  <tr *ngFor="let u of users">
+    <td>{{u.name}}</td>
+    <td>{{u.lastName}}</td>
+    <td>{{u.email}}</td>
+    <td>{{u.username}}</td>
+    <td>{{u.password}}</td>
+    <td>{{u.identification}}</td>
+    <!--<pre>{{u | json}}</pre>-->
+  </tr>
+</table>
+
+
