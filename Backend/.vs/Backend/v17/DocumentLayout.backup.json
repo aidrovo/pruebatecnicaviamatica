@@ -3,27 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\users\\users.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\users\\users.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\create-user\\create-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\create-user\\create-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\create-user\\create-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\users\\users.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\users\\users.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
@@ -41,16 +58,6 @@
       "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3AF94E-6D58-F9E9-3B30-A89F5F93011C}|C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend|c:\\users\\andre\\source\\repos\\prueba tecnica\\frontend\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|c:\\users\\andre\\source\\repos\\prueba tecnica\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1722C2-D9D3-4037-9561-3C15EF8E2D4E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,63 +72,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:57:00.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Models\\User.cs",
-              "RelativeToolTip": "Backend\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:56:26.829Z",
+              "WhenOpened": "2026-04-01T13:04:27.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.module.ts",
-              "RelativeToolTip": "..\\Frontend\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:35:40.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.component.ts",
-              "RelativeToolTip": "..\\Frontend\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:30:06.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "create-user.component.ts",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\create-user\\create-user.component.ts",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\create-user\\create-user.component.ts",
@@ -130,19 +98,6 @@
               "ViewState": "AgIAACUAAAAAAAAAAAAgwAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-03-31T06:13:38.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "user.service.ts",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\services\\user.service.ts",
-              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\services\\user.service.ts",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\services\\user.service.ts",
-              "RelativeToolTip": "..\\Frontend\\src\\app\\services\\user.service.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:11:16.823Z",
               "EditorCaption": ""
             },
             {
@@ -160,33 +115,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "user.service.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\services\\user.service.ts",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\services\\user.service.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\services\\user.service.ts",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\services\\user.service.ts",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-31T06:11:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-31T06:17:03.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\components\\login\\login.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-31T07:21:22.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-31T06:19:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:25:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:57:00.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "users.component.ts",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\users\\users.component.ts",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\users\\users.component.ts",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\users\\users.component.ts",
               "RelativeToolTip": "..\\Frontend\\src\\app\\components\\users\\users.component.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-03-31T06:10:40.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "users.component.html",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\users\\users.component.html",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\users\\users.component.html",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\users\\users.component.html",
               "RelativeToolTip": "..\\Frontend\\src\\app\\components\\users\\users.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-03-31T06:12:32.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.component.ts",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-31T06:30:06.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.module.ts",
+              "RelativeToolTip": "..\\Frontend\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-31T06:35:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:56:26.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app-routing.module.ts",
@@ -194,12 +263,11 @@
               "RelativeToolTip": "..\\Frontend\\src\\app\\app-routing.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:20:12.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:20:12.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\app.component.html",
@@ -207,12 +275,11 @@
               "RelativeToolTip": "..\\Frontend\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-31T06:29:47.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:29:47.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "auth.guard.ts",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\guards\\auth.guard.ts",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\guards\\auth.guard.ts",
@@ -220,38 +287,11 @@
               "RelativeToolTip": "..\\Frontend\\src\\app\\guards\\auth.guard.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:32:35.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:32:35.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dashboard.component.html",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "RelativeToolTip": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-31T06:19:20.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:25:44.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Backend\\Backend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\AuthController.cs",
@@ -259,25 +299,11 @@
               "RelativeToolTip": "Backend\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:25:15.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:25:15.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dashboard.component.ts",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "RelativeToolTip": "..\\Frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:17:03.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "auth.service.ts",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\prueba tecnica\\Frontend\\src\\app\\services\\auth.service.ts",
               "RelativeDocumentMoniker": "..\\Frontend\\src\\app\\services\\auth.service.ts",
@@ -285,8 +311,7 @@
               "RelativeToolTip": "..\\Frontend\\src\\app\\services\\auth.service.ts",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-31T06:10:27.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:10:27.69Z"
             }
           ]
         }

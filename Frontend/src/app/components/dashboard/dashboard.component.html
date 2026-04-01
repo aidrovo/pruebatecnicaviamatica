@@ -7,5 +7,10 @@
     <button mat-raised-button color="warn" (click)="logout()">
       Cerrar sesión
     </button>
+
+    <h3>Subir Excel</h3>
+
+    <input type="file" (change)="onFileSelected($event)">
+    <button (click)="upload()">Subir</button>
   </mat-card>
 </div>

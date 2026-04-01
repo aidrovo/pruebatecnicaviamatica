@@ -21,10 +21,11 @@ export class LoginComponent {
     }).subscribe({
       next: (res: any) => {
         this.auth.saveToken(res.token);
-        this.router.navigate(['/dashboard']); // 🔥 REDIRECCIÓN
+        this.router.navigate(['/dashboard']);
       },
-      error: () => {
-        alert('Credenciales incorrectas');
+      error: (err) => {
+        const message = err?.error?.message || err?.error || 'Error al iniciar sesión';
+        alert(message);
       }
     });
   }

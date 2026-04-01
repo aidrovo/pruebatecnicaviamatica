@@ -33,4 +33,29 @@ export class UsersComponent implements OnInit {
         this.users = res;
       });
   }
+
+  selectedUser: any = null;
+
+  editUser(user: any) {
+    this.selectedUser = { ...user }; // copia
+  }
+
+  updateUser() {
+    this.userService.updateUser(this.selectedUser.id, this.selectedUser)
+      .subscribe(() => {
+        alert('Usuario actualizado');
+        this.selectedUser = null;
+        this.loadUsers();
+      });
+  }
+
+  deleteUser(id: number) {
+    if (!confirm('¿Seguro que deseas eliminar?')) return;
+
+    this.userService.deleteUser(id)
+      .subscribe(() => {
+        alert('Usuario eliminado');
+        this.loadUsers();
+      });
+  }
 }

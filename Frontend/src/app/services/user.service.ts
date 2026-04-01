@@ -20,14 +20,19 @@ export class UserService {
     return this.http.post(`${this.api}/users`, user);
   }
 
-  uploadExcel(file: File) {
-    const formData = new FormData();
-    formData.append('file', file);
-
-    return this.http.post(`${this.api}/users/upload`, formData);
-  }
-
   getDashboard() {
     return this.http.get(`${this.api}/dashboard`);
+  }
+
+  updateUser(id: number, user: any) {
+    return this.http.put(`${this.api}/users/${id}`, user);
+  }
+
+  deleteUser(id: number) {
+    return this.http.delete(`${this.api}/users/${id}`);
+  }
+
+  uploadExcel(data: FormData) {
+    return this.http.post(`${this.api}/dashboard/upload`, data);
   }
 }

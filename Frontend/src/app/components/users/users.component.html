@@ -12,6 +12,7 @@
     <th>Username</th>
     <th>Password</th>
     <th>Cédula</th>
+    <th>Acciones</th>
   </tr>
 
   <tr *ngFor="let u of users">
@@ -21,8 +22,26 @@
     <td>{{u.username}}</td>
     <td>{{u.password}}</td>
     <td>{{u.identification}}</td>
+    <td>
+      <button (click)="editUser(u)">Editar</button>
+      <button (click)="deleteUser(u.id)">Eliminar</button>
+    </td>
     <!--<pre>{{u | json}}</pre>-->
   </tr>
 </table>
+
+<div *ngIf="selectedUser">
+  <h3>Editar Usuario</h3>
+
+  <input [(ngModel)]="selectedUser.name" placeholder="Nombre">
+  <input [(ngModel)]="selectedUser.lastName" placeholder="Apellido">
+  <input [(ngModel)]="selectedUser.email" placeholder="Email">
+  <input [(ngModel)]="selectedUser.username" placeholder="Username">
+  <input [(ngModel)]="selectedUser.password" placeholder="Password">
+  <input [(ngModel)]="selectedUser.identification" placeholder="Cédula">
+
+  <button (click)="updateUser()">Guardar</button>
+  <button (click)="selectedUser = null">Cancelar</button>
+</div>
 
 
