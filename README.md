@@ -137,17 +137,6 @@ Backend (.NET)
 
 ---
 
-🚀 Posibles mejoras
-
-- 🔄 Interceptor HTTP para manejo automático del token
-- 📊 Paginación en listado de usuarios
-- 📈 Validación de errores por fila en Excel
-- 🎨 Mejora de interfaz (UI/UX)
-- ⚠️ Manejo global de errores
-- 👤 Implementación de roles (Admin / User)
-
----
-
 ▶️ Cómo ejecutar el proyecto
 
 Backend
